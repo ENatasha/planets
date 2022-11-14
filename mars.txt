@@ -3,8 +3,4 @@ The two moons on Mars may be a problem for Wolfman.
 Maybe I should start with a base on Venus. 
 But the mummy will appreciate the lack of humidity. 
 An ill-considered change.
-<<<<<<< HEAD
-We added a different line in the owner's copy.
-=======
-This line added to collaborator's copy.
->>>>>>> 01ffb727a17053e58d98ac5da4c1d7d2d05fffe6
+We removed the conflict on this line.
